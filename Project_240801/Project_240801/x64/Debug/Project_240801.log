@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\k5115\OneDrive\바탕 화면\C_KDigital\Project_240801\소스.c(8,6): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k5115\OneDrive\바탕 화면\C_KDigital\Project_240801\소스.c(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  Project_240801.vcxproj -> C:\Users\k5115\OneDrive\바탕 화면\C_KDigital\Project_240801\x64\Debug\Project_240801.exe
