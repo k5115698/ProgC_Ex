@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k5115\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_KDigital\\First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEC76C9-1AC0-4F27-B615-C2F647F3262F}|First.vcxproj|C:\\Users\\k5115\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_KDigital\\First\\First.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AEC76C9-1AC0-4F27-B615-C2F647F3262F}|First.vcxproj|solutionrelative:First.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.c",
+              "DocumentMoniker": "C:\\Users\\k5115\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_KDigital\\First\\First.c",
+              "RelativeDocumentMoniker": "First.c",
+              "ToolTip": "C:\\Users\\k5115\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_KDigital\\First\\First.c",
+              "RelativeToolTip": "First.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-01T00:34:39.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
